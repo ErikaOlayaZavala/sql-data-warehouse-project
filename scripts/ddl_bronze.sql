@@ -1,9 +1,12 @@
 /*
 =============================================================================================
-  Table creation
+DDL Script: Create Bronze Tables
 ============================================================================================
-This script belong to the fisrts layer "Bronze" than take the data (as-is)
-The objective is to create and drop the tables of CRM and ERP
+Script Purpose: 
+    This script creates tables in the 'bronze' schema, dropping existing tables
+    if they already exist. 
+    Run this script to re-define the DDL structure of 'bronze' Tables
+============================================================================================
 
 */
 IF OBJECT_ID ('bronze.crm_cust_info', 'U') IS NOT NULL
