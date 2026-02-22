@@ -1,4 +1,4 @@
-# Data Warehouse and Analitycs Project 
+# Data Warehouse and Analitycs Project
 
 Bienvenid@, to the **Data Warehouse and Analytics Project** repository! 🚀
 
@@ -21,8 +21,6 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 <img width="6235" height="3216" alt="data_architecture" src="https://github.com/user-attachments/assets/bc5de73b-e2f7-43a5-ac62-3da73055cf13" />
-<img width="6235" height="3216" alt="data_architecture" src="https://github.com/user-attachments/assets/bc5de73b-e2f7-43a5-ac62-3da73055cf13" />
-
 
 --- 
 
