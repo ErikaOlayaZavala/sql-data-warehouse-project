@@ -1,6 +1,6 @@
 # Data Warehouse and Analitycs Project 
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
+Bienvenid@, to the **Data Warehouse and Analytics Project** repository! 🚀
 
 
 This project demostrates a comprehensive data warehousing and analitycs solution, from building a data warehouse to generating insights. Designed as a portfolio project
@@ -19,6 +19,10 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
 - **Scope**: Focus on the latest dataset only; historization of data not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+<img width="6235" height="3216" alt="data_architecture" src="https://github.com/user-attachments/assets/bc5de73b-e2f7-43a5-ac62-3da73055cf13" />
+<img width="6235" height="3216" alt="data_architecture" src="https://github.com/user-attachments/assets/bc5de73b-e2f7-43a5-ac62-3da73055cf13" />
+
 
 --- 
 
